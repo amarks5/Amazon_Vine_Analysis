@@ -8,14 +8,26 @@ In this project we are analyzing the Amazon Vine program to see if there is a bi
 
  ![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/vine_reviews_count.PNG)
   
- * There were a total of 696349 non-Vine reviews.
+ * There were a total of 696,349 non-Vine reviews.
 
  ![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/non_members_reviews_count.PNG)
  
 ### Total Number of 5-Star Reviews
-* how many vine reviews were 5 star? How many non-Vine reviews were 5 stars
+* Total Number of Vine 5-Star Reviews was 780.
+
+![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/paid_five_star_review_count.PNG)
+
+*  Total Number of Non-Vine 5-Star Reviews was 329,844
+
+![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/unpaid_five_star_review_count.PNG)
 
 ### Overall Percentage of 5-Star Reviews
-* what percentage of vines reviews were 5 stars? what percentage of non-vine reviews were 5 star
+* Percentage of 5-Star Vine Reviews was roughly 39.5%.
+
+![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/paid_five_star_percentage.PNG)
+
+* Percentage of 5-Star Non-Vine Reviews was roughly 47.4%.
+
+![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/non_members_reviews_percentage.PNG)
 
 ## Summary
