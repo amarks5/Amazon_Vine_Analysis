@@ -9,7 +9,9 @@ In this project we are analyzing the Amazon Vine program to see if there is a bi
  ![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/vine_reviews_count.PNG)
   
  * There were a total of 696349 non-Vine reviews.
+
  ![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/non_members_reviews_count.PNG)
+ 
 ### Total Number of 5-Star Reviews
 * how many vine reviews were 5 star? How many non-Vine reviews were 5 stars
 
