@@ -31,3 +31,4 @@ In this project we are analyzing the Amazon Vine program to see if there is a bi
 ![alt text](https://github.com/amarks5/Amazon_Vine_Analysis/blob/main/images/non_members_reviews_percentage.PNG)
 
 ## Summary
+When comparing the 5-star review percentages between members and non-members, non-members lead with 47.4% compared to members with 39.5%. This suggests a negative bias for reviews in the vine program.
